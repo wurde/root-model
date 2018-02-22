@@ -12,6 +12,10 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+* 1 minor enhancement:
+
+  * deps: add model-errors
+
 ## 2018-02-21, Version 0.1.0 (unstable)
 
 * 3 minor enhancements:
