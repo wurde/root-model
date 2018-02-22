@@ -24,7 +24,7 @@ class RootModel {
    * Translations from different locales.
    *
    * @method
-   * @since 0.1.0
+   * @since 0.2.0
    * @public
    */
 
@@ -36,7 +36,7 @@ class RootModel {
    * Whitelist parameters to avoid mass assignment.
    *
    * @method
-   * @since 0.1.0
+   * @since 0.2.0
    * @param {Object} param - instance key values.
    * @param {Object} strong_param - whitelist of parameters.
    * @returns {String|null} err - any error messages.

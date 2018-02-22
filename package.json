@@ -1,6 +1,6 @@
 {
   "name": "root-model",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Base model with utility functions.",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,14 @@
     "model",
     "activemodel"
   ],
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE.txt",
+    "CHANGELOG.md",
+    "index.js",
+    "test.js"
+  ],
   "author": "Andy Bettisworth <andy@accreu.com> (https://andybettisworth.com/)",
   "license": "MIT",
   "bugs": {
@@ -26,5 +34,8 @@
   "dependencies": {
     "model-errors": "^2.0.2",
     "struct-extras": "^1.1.0"
+  },
+  "engines": {
+    "node": ">= 8"
   }
 }

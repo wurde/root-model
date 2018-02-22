@@ -12,10 +12,14 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
-* 2 minor enhancements:
+## 2018-02-22, Version 0.2.0 (unstable)
+
+* 4 minor enhancements:
 
   * deps: add model-errors
   * deps: add struct-extras
+  * js: add #t for translations
+  * js: add #assignment for strong param
 
 ## 2018-02-21, Version 0.1.0 (unstable)
 
