@@ -24,6 +24,7 @@
     "mocha": "^5.0.1"
   },
   "dependencies": {
-    "model-errors": "^2.0.2"
+    "model-errors": "^2.0.2",
+    "struct-extras": "^1.1.0"
   }
 }

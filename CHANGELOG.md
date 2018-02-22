@@ -12,9 +12,10 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
-* 1 minor enhancement:
+* 2 minor enhancements:
 
   * deps: add model-errors
+  * deps: add struct-extras
 
 ## 2018-02-21, Version 0.1.0 (unstable)
 
