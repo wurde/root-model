@@ -1,6 +1,6 @@
-# hesitate
+# root-model
 
-Human-like delay between page interactions.
+Base model with utility functions.
 
 ## Changelog
 
