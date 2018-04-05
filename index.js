@@ -12,7 +12,7 @@ const struct = require("struct-extras")
  */
 
 class RootModel {
-  constructor(param, req, res) {
+  constructor(req, res) {
     this.req = req
     this.res = res
     this.model_errors = model_errors

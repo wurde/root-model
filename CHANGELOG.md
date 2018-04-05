@@ -12,6 +12,12 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+## 2018-04-05, Version 1.0.0
+
+* 1 minor enhancement:
+
+  * js: remove unused param input
+
 ## 2018-02-22, Version 0.2.0 (unstable)
 
 * 4 minor enhancements:

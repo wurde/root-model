@@ -1,6 +1,6 @@
 {
   "name": "root-model",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Base model with utility functions.",
   "main": "index.js",
   "scripts": {
